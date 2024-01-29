@@ -1,0 +1,22 @@
+{
+  "name": "IntroJS",
+  "version": "0.1.0",
+  "description": "Introduction to JS",
+  "private": true,
+  "main": "",
+  "scripts": {
+    "lint:ci": "eslint . --ext .tsx,.ts,.js"
+  },
+  "keywords": [
+    "PAI"
+  ],
+  "author": {
+    "name": "F. de Sande",
+    "email": "fsande@ull.es"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "readline-sync": "1.4.9",
+    "eslint": "^8.34.0",
+  }
+}
